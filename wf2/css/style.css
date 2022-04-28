@@ -1,0 +1,31 @@
+.headerdiv{
+    display: flex;
+    width: 80%;
+}
+
+
+.boxlogo{
+   width: 100px; 
+   background-color: rgb(28, 27, 27);
+   display: inline-block;
+   box-sizing:border-box;
+}
+.boxlogo p{
+    color: white;
+    font-size: 50px;
+}
+
+.boxnav{
+    width: 50x;
+    background-color: grey;
+    display: inline-block;
+    box-sizing:border-box;
+}
+.boxnav p{
+    color: white;
+    font-size: 50px;
+}
+
+.column1{
+    
+}
